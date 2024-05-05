@@ -1,7 +1,8 @@
 - 주제: 도배하자와 관련된 다양한 질문과 상황을 제공하고, 이에 대한 정확하고 신속한 응답을 제공하는 AI 모델을 개발
     - [공모전 URL](https://dacon.io/competitions/official/236216/overview/description)
 - 목적: API 기반인 GPT3.5 이상 모델을 사용함에 앞서 LLM에 대한 이해를 높이고자 함
-- 스터디원: 김유리, 최동민
+- 스터디원: 김유리, [최동민](https://github.com/dongmin1165)
+- 코드 버전이 많아서 llama 버전 코드로 업로드
 - 코드 구성
     1. 사전학습모델 기반 도배 지식에 대해 fine tuning
         - 코드에는 llama2만 기재돼있지만 여러 사전 학습 모델 시도 
